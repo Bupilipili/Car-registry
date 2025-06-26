@@ -90,7 +90,7 @@ function App() {
 
         <footer className="text-center mt-12 py-4 border-t border-gray-300">
           <p className="text-sm text-gray-500">
-            © 2023 Property Image Capture. All rights reserved.
+            © 2025 Jubilee Allianz. All rights reserved.
           </p>
         </footer>
       </div>
